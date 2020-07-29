@@ -4,7 +4,7 @@ My name is Pedro Henrique from Brazil (🇧🇷). I've been working as Full Stac
 
 Would you like to find me?
 
-[![Youtube Badge](https://img.shields.io/badge/-WhatsApp-30b947?style=flat-square&labelColor=30b947&logo=whatsapp&logoColor=white&link=https://wa.me/5511986673204)](https://wa.me/5511986673204)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-30b947?style=flat-square&labelColor=30b947&logo=whatsapp&logoColor=white&link=https://wa.me/5511986673204)](https://wa.me/5511986673204)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pedrooplx)](https://twitter.com/pedrooplx)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrooplx)](https://www.linkedin.com/in/pedrooplx)
 <!--
