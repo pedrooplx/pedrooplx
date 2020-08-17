@@ -1,4 +1,4 @@
-### Hi there! 😁
+### Hi there! 👋
 
 My name is Pedro Henrique from Brazil (🇧🇷). I've been working as Full Stack .Net Developer since 2019. I'am passionate about codes and always like to produce content to improve my portfolio even more.
 
